@@ -168,7 +168,7 @@ A complete mail server stack built for real deployment scenarios.
 
 <div align="center">
 
-[![GitHub Card](https://githubcard.com/semhoun.svg?d=CXm3Fr8N)](https://githubcard.com/semhoun.svg?d=CXm3Fr8N)
+[![GitHub Card](https://githubcard.com/semhoun.svg?d=jyAWmxXM)](https://githubcard.com/semhoun.svg?d=CXm3Fr8N)
 
 </div>
 
