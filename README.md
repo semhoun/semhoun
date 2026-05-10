@@ -168,7 +168,7 @@ A complete mail server stack built for real deployment scenarios.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=semhoun&theme=tokyonight-duo&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Card](https://githubcard.com/semhoun.svg?d=CXm3Fr8N)](https://githubcard.com/semhoun.svg?d=CXm3Fr8N)
 
 </div>
 
