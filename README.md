@@ -1,152 +1,195 @@
-<!-- BANNIERE SIMPLE -->
-<p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Nathanaël%20Semhoun&fontSize=28&fontColor=ffffff" /></picture>
-</p>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <picture><img src="https://readme-typing-svg.demolab.com/?lines=Software+Architect;Backend+Expert;AI+Developer;Distributed+Systems+Engineer;Tech+Lead+%26+R%26D&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" /></picture>
-</p>
+<img src="./banner.svg" width="100%" alt="Nathanaël Semhoun banner" />
 
-<h1 align="center">👋 Hello, I'm Nathanaël SEMHOUN</h1>
+<br/>
 
-<p align="center">
-  🌍 <a href="https://www.semhoun.net">Website</a> •
-  💻 <a href="https://github.com/semhoun/">GitHub</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=Software+Architect+for+production-grade+systems;Backend+Engineer+focused+on+scale%2C+clarity%2C+and+reliability;Designing+distributed+platforms+and+AI-powered+applications;20%2B+years+building+real-world+software" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-semhoun.net-0EA5E9?style=for-the-badge&logo=googlechrome)](https://www.semhoun.net)
+[![GitHub](https://img.shields.io/badge/GitHub-@semhoun-7C3AED?style=for-the-badge&logo=github)](https://github.com/semhoun)
+[![Docker Hub](https://img.shields.io/badge/Docker-@semhoun-2563EB?style=for-the-badge&logo=docker)](https://hub.docker.com/u/semhoun)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-@nsemhoun-3B4252?style=for-the-badge&logo=huggingface)](https://huggingface.co/nsemhoun)
+
+</div>
 
 ---
 
-## 🧬 About Me
+## About
 
-```txt
-20+ years in software engineering
-Telecom • Distributed Systems • Cloud • AI
+I’m **Nathanaël Semhoun**, a **Software Architect** and **Backend Engineer** with **20+ years of experience** building robust, scalable, and production-ready software.
+
+My work focuses on:
+
+- **Software architecture**
+- **Backend engineering**
+- **Distributed systems**
+- **Telecom / VoIP infrastructure**
+- **DevOps, observability, and reliability**
+- **AI agents and LLM integrations**
+
+I enjoy building systems that stay **clear, maintainable, and resilient** under real-world conditions.
+
+---
+
+## Signature
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### What I optimize for
+
+- scalable architecture
+- reliability under production load
+- maintainability over time
+- practical AI integration
+- operational simplicity
+- clean engineering decisions
+
+</td>
+<td width="48%" valign="top">
+
+```yaml
+name: Nathanaël Semhoun
+role: Software Architect
+domains:
+  - backend systems
+  - distributed platforms
+  - telecom / voip
+  - infrastructure
+  - AI / LLM applications
+strengths:
+  - reliability
+  - clarity
+  - scale
+  - maintainability
 ```
 
-- 🏗️ Architect of large-scale telecom & VoIP systems  
-- 🤖 Building AI agents & LLM-powered applications  
-- ⚙️ Backend, DevOps, infrastructure expert  
-- 👥 Former Tech Lead / R&D Manager  
-- 🔍 End-to-end vision (low-level → cloud)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚧 Currently Working On
+## Featured Projects
 
-- 🤖 AI agents & automation systems  
-- 🧠 LLM integrations in real applications  
-- ⚙️ Advanced PHP architectures  
-- ☁️ Distributed systems & observability  
+<div align="center">
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🚀 Projects
+### 🤖 [claire-chatbot](https://github.com/semhoun/claire-chatbot)
 
-### 🔥 Personal Projects (Maintainer)
+Minimal AI chat application built with **Slim 4** and **Twig**.
 
-#### 🤖 AI Chat Agent  
-<a href="https://github.com/semhoun/claire-chatbot">claire-chatbot</a>
+**Highlights**
+- clean architecture
+- UI + API design
+- session handling
+- practical LLM integration
 
-> Minimal AI agent (Slim 4 + Twig + LLM)  
-✔ Web UI + API  
-✔ Session handling  
-✔ Observability  
+</td>
+<td width="33%" valign="top">
 
----
+### 🧩 [slim-skeleton-mvc](https://github.com/semhoun/slim-skeleton-mvc)
 
-#### 🏗️ Slim MVC Skeleton  
-<a href="https://github.com/semhoun/slim-skeleton-mvc">slim-skeleton-mvc</a>
+A production-ready **Slim 4 MVC skeleton** for modern PHP applications.
 
-> Production-ready PHP architecture  
-✔ Doctrine ORM  
-✔ Dependency Injection  
-✔ Logging / Testing  
+**Highlights**
+- Doctrine ORM
+- dependency injection
+- logging foundation
+- maintainable structure
 
----
+</td>
+<td width="33%" valign="top">
 
-#### 📬 Mail Server Stack  
-<a href="https://github.com/semhoun/">sqmail_all-in-one</a>
+### 📬 [sqmail_all-in-one](https://github.com/semhoun/sqmail_all-in-one)
 
-> Full mail server solution (Docker)  
-✔ SMTP / IMAP / DKIM  
-✔ Production ready  
+A complete mail server stack built for real deployment scenarios.
 
----
+**Highlights**
+- SMTP / IMAP
+- DKIM
+- filtering pipeline
+- Dockerized operations
 
-#### ✅ Request Validation  
-<a href="https://github.com/semhoun/">slim-request-validation</a>
+</td>
+</tr>
+</table>
 
-> Slim middleware for request validation  
-
----
-
-### 🤝 Contributions & Forks
-
-#### 🧠 AI Framework  
-https://github.com/neuron-core/neuron-aineuron-ai</a>
-
-#### 🔧 Debug Tools  
-https://github.com/darkalchemy/runtracyruntracy</a>
-
-#### 🐳 Infrastructure
-
-- OpenLDAP Docker  
-- Mail ecosystem  
-- System tooling  
+</div>
 
 ---
 
-#### 🎮 Experimental  
-<a href="https://github.com/semhoun/arcade-pacman">arcade-pacman</a>
+## Core Expertise
+
+<div align="center">
+
+![Architecture](https://img.shields.io/badge/Architecture-06B6D4?style=flat-square&logoColor=white)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-3B82F6?style=flat-square&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6366F1?style=flat-square&logoColor=white)
+![Telecom / VoIP](https://img.shields.io/badge/Telecom%20%2F%20VoIP-8B5CF6?style=flat-square&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0EA5E9?style=flat-square&logoColor=white)
+![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-EC4899?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
-## 🧠 Core Expertise
+## Tech Stack
 
-```txt
-✔ System Architecture
-✔ Telecom Infrastructure
-✔ AI Integration
-✔ Backend Engineering
-✔ DevOps & Automation
-```
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=php,python,cpp,c,js,ts,docker,kubernetes,linux,bash,nginx,mysql,postgres,redis,git,github,gitlab,vscode" alt="Tech Stack" />
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <picture><img src="https://skillicons.dev/icons?i=php,cpp,js,python,docker,kubernetes,linux,git,nginx,mysql" /></picture>
-</p>
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
-  <picture><img src="https://streak-stats.demolab.com?user=semhoun&theme=tokyonight&hide_border=true&mode=weekly" /></picture>
-</p>
+</div>
 
 ---
 
-## 📈 Activity
+## GitHub Activity
 
-<p align="center">
-  <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=semhoun&theme=tokyo-night&hide_border=true" /></picture>
-</p>
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=semhoun&theme=tokyonight-duo&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## 🌐 Beyond GitHub
-
-- 🌍 https://www.semhoun.net  
-- 🐳 https://hub.docker.com/u/semhoun  
+</div>
 
 ---
 
-## 📫 Contact
+## Current Focus
 
-```txt
-Open to collaboration, architecture missions and technical challenges
-```
+- AI agents and workflow automation
+- distributed platforms and backend services
+- observability and platform reliability
+- maintainable PHP architecture
+- LLM integrations for real products
+
+---
+
+## Engineering Philosophy
+
+> Build software that survives production — and stays understandable for the people who maintain it.
+
+I value:
+- clarity over unnecessary complexity
+- reliability over hype
+- pragmatic tooling over fashion
+- resilient systems over short-term shortcuts
