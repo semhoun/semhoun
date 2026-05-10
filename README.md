@@ -1,17 +1,17 @@
 <!-- BANNIERE SIMPLE -->
 <p align="center">
-  https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Nathanaël%20Semhoun&fontSize=28&fontColor=ffffff
+  <picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Nathanaël%20Semhoun&fontSize=28&fontColor=ffffff" /></picture>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  https://readme-typing-svg.demolab.com/?lines=Software+Architect;Backend+Expert;AI+Developer;Distributed+Systems+Engineer;Tech+Lead+%26+R%26D&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22
+  <picture><img src="https://readme-typing-svg.demolab.com/?lines=Software+Architect;Backend+Expert;AI+Developer;Distributed+Systems+Engineer;Tech+Lead+%26+R%26D&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" /></picture>
 </p>
 
-<h1 align="center">👋 Hello, I'm Nathanaël</h1>
+<h1 align="center">👋 Hello, I'm Nathanaël SEMHOUN</h1>
 
 <p align="center">
-  🌍 https://www.semhoun.netWebsite</a> •
+  🌍 <a href="https://www.semhoun.net">Website</a> •
   💻 <a href="https://github.com/semhoun/">GitHub</a>
 </p>
 
@@ -117,7 +117,7 @@ https://github.com/darkalchemy/runtracyruntracy</a>
 ## 🛠️ Tech Stack
 
 <p align="center">
-  https://skillicons.dev/icons?i=php,cpp,js,python,docker,kubernetes,linux,git,nginx,mysql
+  <picture><img src="https://skillicons.dev/icons?i=php,cpp,js,python,docker,kubernetes,linux,git,nginx,mysql" /></picture>
 </p>
 
 ---
@@ -125,9 +125,7 @@ https://github.com/darkalchemy/runtracyruntracy</a>
 ## 📊 GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=semhoun&show_icons=true&theme=tokyonight&hide_border=true
-  <br/>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=semhoun&layout=compact&theme=tokyonight&hide_border=true
+  <picture><img src="https://streak-stats.demolab.com?user=semhoun&theme=tokyonight&hide_border=true&mode=weekly" /></picture>
 </p>
 
 ---
@@ -135,7 +133,7 @@ https://github.com/darkalchemy/runtracyruntracy</a>
 ## 📈 Activity
 
 <p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=semhoun&theme=tokyo-night&hide_border=true
+  <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=semhoun&theme=tokyo-night&hide_border=true" /></picture>
 </p>
 
 ---
@@ -151,3 +149,4 @@ https://github.com/darkalchemy/runtracyruntracy</a>
 
 ```txt
 Open to collaboration, architecture missions and technical challenges
+```
