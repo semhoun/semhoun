@@ -1,14 +1,18 @@
-<!-- BANNER -->
+<!-- BANNIERE SIMPLE -->
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Nathanaël%20Semhoun&fontSize=40&fontColor=ffffff&animation=fadeIn
+  https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Nathanaël%20Semhoun&fontSize=28&fontColor=ffffff
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  https://readme-typing-svg.demolab.com/?lines=Software+Architect;Backend+Expert;AI+Developer;Distributed+Systems+Engineer;Tech+Lead+%26+R%26D&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22
 </p>
 
 <h1 align="center">👋 Hello, I'm Nathanaël</h1>
-<h3 align="center">🧠 Software Architect • Backend Expert • AI Developer</h3>
 
 <p align="center">
-  https://www.semhoun.net🌍 Website</a> •
-  <a href="https://github.com/semhoun/">💻 GitHub</a>
+  🌍 https://www.semhoun.netWebsite</a> •
+  💻 <a href="https://github.com/semhoun/">GitHub</a>
 </p>
 
 ---
@@ -24,7 +28,7 @@ Telecom • Distributed Systems • Cloud • AI
 - 🤖 Building AI agents & LLM-powered applications  
 - ⚙️ Backend, DevOps, infrastructure expert  
 - 👥 Former Tech Lead / R&D Manager  
-- 🔍 Strong end-to-end vision (low-level → cloud)
+- 🔍 End-to-end vision (low-level → cloud)
 
 ---
 
@@ -37,20 +41,22 @@ Telecom • Distributed Systems • Cloud • AI
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
-### 🤖 AI Chat Agent
-[🔗 claire-chatbot](https://github.com/semhoun/claire-chatbot)
+### 🔥 Personal Projects (Maintainer)
 
-> Minimal AI agent (Slim 4 + Twig + OpenAI-compatible LLM)  
-✔ Web UI  
-✔ API endpoint  
-✔ Observability-ready  
+#### 🤖 AI Chat Agent  
+<a href="https://github.com/semhoun/claire-chatbot">claire-chatbot</a>
+
+> Minimal AI agent (Slim 4 + Twig + LLM)  
+✔ Web UI + API  
+✔ Session handling  
+✔ Observability  
 
 ---
 
-### 🏗️ Slim MVC Skeleton
-[🔗 slim-skeleton-mvc](https://github.com/semhoun/slim-skeleton-mvc)
+#### 🏗️ Slim MVC Skeleton  
+<a href="https://github.com/semhoun/slim-skeleton-mvc">slim-skeleton-mvc</a>
 
 > Production-ready PHP architecture  
 ✔ Doctrine ORM  
@@ -59,12 +65,40 @@ Telecom • Distributed Systems • Cloud • AI
 
 ---
 
-### 📬 Mail Server All-in-One
-[🔗 sqmail_all-in-one](https://github.com/semhoun/)
+#### 📬 Mail Server Stack  
+<a href="https://github.com/semhoun/">sqmail_all-in-one</a>
 
-> Full mail server stack (Docker)  
-✔ SMTP / IMAP / DKIM / Spam filtering  
-✔ Production deployment ready  
+> Full mail server solution (Docker)  
+✔ SMTP / IMAP / DKIM  
+✔ Production ready  
+
+---
+
+#### ✅ Request Validation  
+<a href="https://github.com/semhoun/">slim-request-validation</a>
+
+> Slim middleware for request validation  
+
+---
+
+### 🤝 Contributions & Forks
+
+#### 🧠 AI Framework  
+https://github.com/neuron-core/neuron-aineuron-ai</a>
+
+#### 🔧 Debug Tools  
+https://github.com/darkalchemy/runtracyruntracy</a>
+
+#### 🐳 Infrastructure
+
+- OpenLDAP Docker  
+- Mail ecosystem  
+- System tooling  
+
+---
+
+#### 🎮 Experimental  
+<a href="https://github.com/semhoun/arcade-pacman">arcade-pacman</a>
 
 ---
 
@@ -86,22 +120,19 @@ Telecom • Distributed Systems • Cloud • AI
   https://skillicons.dev/icons?i=php,cpp,js,python,docker,kubernetes,linux,git,nginx,mysql
 </p>
 
-<p align="center">
-  https://skillicons.dev/icons?i=react,nodejs
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   https://github-readme-stats.vercel.app/api?username=semhoun&show_icons=true&theme=tokyonight&hide_border=true
+  <br/>
   https://github-readme-stats.vercel.app/api/top-langs/?username=semhoun&layout=compact&theme=tokyonight&hide_border=true
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   https://github-readme-activity-graph.vercel.app/graph?username=semhoun&theme=tokyo-night&hide_border=true
@@ -111,30 +142,12 @@ Telecom • Distributed Systems • Cloud • AI
 
 ## 🌐 Beyond GitHub
 
-- 🌍 Website → https://www.semhoun.net  
-- 🐳 Docker → https://hub.docker.com/u/semhoun  
+- 🌍 https://www.semhoun.net  
+- 🐳 https://hub.docker.com/u/semhoun  
 
 ---
 
 ## 📫 Contact
 
 ```txt
-Open to technical discussions, architecture challenges, and collaborations
-```
-
-- 🌐 https://www.semhoun.net  
-
----
-
-## ⚡ Philosophy
-
-> Build reliable systems.  
-> Automate everything.  
-> Keep architecture simple.
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer
-</p>
+Open to collaboration, architecture missions and technical challenges
