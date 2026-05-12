@@ -168,9 +168,9 @@ A complete mail server stack built for real deployment scenarios.
 
 <div align="center">
 
-[![GitHub Stats](https://stats.pphat.top/stats?username=semhoun&avatar_mode=radar&theme=dracula&data_border_style=solid)](https://stats.pphat.top/languages?username=semhoun&type=card&show_info=true&theme=dracula)
+[![GitHub Stats](https://stats.pphat.top/stats?username=semhoun&avatar_mode=radar&theme=dracula&data_border_style=solid)](https://stats.pphat.top/stats?username=semhoun&avatar_mode=radar&theme=dracula&data_border_style=solid)
 
-[![GitHub Language](https://stats.pphat.top/languages?username=semhoun&type=card&show_info=true&theme=dracula)](https://studio.pphat.top/?username=semhoun&avatar_mode=radar&theme=dracula&data_border_style=solid)
+[![GitHub Language](https://stats.pphat.top/languages?username=semhoun&type=card&show_info=true&theme=dracula)](https://stats.pphat.top/languages?username=semhoun&type=card&show_info=true&theme=dracula)
 
 </div>
 
